@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShiyiNinini&label=Profile views&color=0e75b6&style=flat" alt="ShiyiNinini" /> </p>
 
-- 🔭 I'm currently working on **struggling in cs**
+- 🔭 I'm currently **struggling in cs**
 
 - 🌱 I'm currently learning **SWE and DE**
 
