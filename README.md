@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShiyiNinini&label=Profile views&color=0e75b6&style=flat" alt="ShiyiNinini" /> </p>
 
-- 🔭 I'm currently working on **Struggling in development**
+- 🔭 I'm currently working on **struggling in cs**
 
-- 🌱 I'm currently learning **JavaScript and React**
+- 🌱 I'm currently learning **NLP and LLM**
 
 - 👯 I'm looking to collaborate on **open source project**
 
 - 🤝 I'm looking for help with **learning system**
 
-- 💬 Ask me about **Something about data**
+- 💬 Ask me about **something about data**
 
 - 📫 How to reach me **nishiyi521@gmail.com**
 
