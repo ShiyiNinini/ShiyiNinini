@@ -6,9 +6,7 @@
 
 - 🔭 I'm currently working on **struggling in cs**
 
-- 🌱 I'm currently learning **NLP and LLM**
-
-- 👯 I'm looking to collaborate on **open source project**
+- 🌱 I'm currently learning **SWE and DE**
 
 - 🤝 I'm looking for help with **learning system**
 
