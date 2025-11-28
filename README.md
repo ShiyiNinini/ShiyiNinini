@@ -6,11 +6,11 @@
 
 - 🔭 I'm currently **struggling in cs**
 
-- 🌱 I'm currently learning **SWE and DE**
+- 🌱 I'm currently **Year 3**
 
 - 🤝 I'm looking for help with **learning system**
 
-- 💬 Ask me about **something about data**
+- 💬 Ask me about **what am I doing**
 
 - 📫 How to reach me **nishiyi521@gmail.com**
 
